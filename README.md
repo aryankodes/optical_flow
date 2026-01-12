@@ -2,19 +2,18 @@
 Run optical flow on mps/cpu device.
 
 1. Open terminal and Clone the repository.
-   ```
-   cd optical_flow
-   ```
+   
    ```
    git clone https://github.com/aryankodes/optical_flow.git
    ```
-   
+   ```
+   cd optical_flow
+   ```
    
 3. Navigate to the cloned repository and Run (o/p: 3.13.0) :
    ```
    python3 --version
    ```
-   
    
 4. Create a Python virtual environment:
    ```
