@@ -241,7 +241,7 @@ class OptimizedOpticalFlow:
         print(f"  Preset: {self.preset}")
         print(f"  Resolution: {res_w}×{res_h}")
         print("\n  Controls:")
-        print("    1-3  : Change preset")
+        print("    2, 3  : Change preset")
         print("    +/-  : Arrow density")
         print("    F    : Fullscreen")
         print("    U    : Toggle UI")
