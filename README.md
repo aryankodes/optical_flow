@@ -1,2 +1,4 @@
 # optical_flow
-run optical flow on mps/cpu.
+Run optical flow on mps/cpu.
+
+#Clone the repo
