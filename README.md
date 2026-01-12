@@ -3,6 +3,9 @@ Run optical flow on mps/cpu device.
 
 1. Open terminal and Clone the repository.
    ```
+   cd optical_flow
+   ```
+   ```
    git clone https://github.com/aryankodes/optical_flow.git
    ```
    
